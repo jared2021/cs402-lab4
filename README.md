@@ -1,1 +1,1 @@
-# cs402-lab4
+to compile use the Makefile and run executable
